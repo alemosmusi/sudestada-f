@@ -58,7 +58,7 @@ export default function Footer() {
           <p>
             📸{" "}
             <a
-              href="https://www.instagram.com/"
+              href="https://www.instagram.com/sudestadapinamar?igsh=MTNudTVhbzM1cTJueQ=="
               target="_blank"
               className="underline"
             >
