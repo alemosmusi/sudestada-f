@@ -19,7 +19,7 @@ export default function ClasesSurfPage() {
 
         <h1 className="relative text-4xl md:text-6xl font-extrabold px-4">
           CLASES DE SURF <br />
-          <span className="text-sky-200">“todo el mundo puede surfear”</span>
+          <span className="text-sky-200">TODOS LOS NIVELES- TODAS LAS EDADES</span>
         </h1>
       </section>
 
@@ -64,6 +64,7 @@ export default function ClasesSurfPage() {
           <ul className="space-y-2 text-sky-900">
             <li>✔ Clase personalizada: un profe – un alumno</li>
             <li>✔ Acompañamiento permanente dentro y fuera del mar</li>
+            <li>✔ Todas las edades, a partir de los 4 años </li>
             <li>✔ Duración: 50 minutos aprox.</li>
             <li>✔ Traje de neoprene y tabla incluidos</li>
           </ul>
@@ -158,15 +159,13 @@ export default function ClasesSurfPage() {
           <h2 className="text-3xl font-bold text-sky-800 mb-4">Surf en grupo</h2>
 
           <p className="text-lg leading-relaxed text-sky-900 mb-4">
-            Divertite surfeando con amigos, colegio o equipo de trabajo. 
-            Armamos propuestas especiales para escuelas, universidades, egresados,
-            empresas y más.
+            Divertite surfeando con amigos/as, compañeros/as de colegio, o grupo de trabajo. Armamos propuestas especiales para escuelas, universidades, egresados, 15 años, despedidas, festejos, team building empresariales, asociaciones deportivas, gimnasios, etc.
           </p>
 
           <ul className="space-y-2 text-sky-900">
             <li>✔ Clase grupal con acompañamiento permanente</li>
             <li>✔ Mínimo 8 integrantes</li>
-            <li>✔ Duración según propuesta</li>
+            <li>✔ Duración de la clase: dependiendo de la propuesta</li>
             <li>✔ Tablas y neoprene incluidos</li>
           </ul>
         </div>

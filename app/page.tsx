@@ -26,11 +26,11 @@ export default function Home() {
         <div className="backdrop-brightness-75 p-6 rounded-xl">
 
           <h1 className="text-5xl font-extrabold text-white drop-shadow-lg">
-            Sudestada Escuela de Surf
+            SUDESTADA ESCUELA DE SURF 
           </h1>
 
           <p className="mt-4 text-xl text-white">
-            Todo el mundo puede surfear… ¡Animate!
+            todo el mundo puede surfear anímate
           </p>
 
           <a href={whatsapp} target="_blank" rel="noopener noreferrer">
@@ -47,7 +47,7 @@ export default function Home() {
 <section className="max-w-5xl mx-auto py-16 px-6">
 
   <h2 className="text-3xl font-bold text-sky-700 text-center">
-    Clases que ofrecemos
+    NUESTRAS PROPUESTAS
   </h2>
 
   <div className="grid md:grid-cols-2 gap-6 mt-8">
@@ -65,7 +65,7 @@ export default function Home() {
       <div className="absolute inset-0 bg-black/50" />
 
       <div className="relative z-10 h-full flex flex-col items-center justify-center text-center text-white px-4">
-        <h3 className="text-2xl font-bold">Surf</h3>
+        <h3 className="text-2xl font-bold">SURF</h3>
         <p className="text-sm opacity-90">
           Iniciación • Nivel medio • Perfeccionamiento
         </p>
@@ -85,9 +85,9 @@ export default function Home() {
       <div className="absolute inset-0 bg-black/50" />
 
       <div className="relative z-10 h-full flex flex-col items-center justify-center text-center text-white px-4">
-        <h3 className="text-2xl font-bold">Paddle Surf (SUP)</h3>
+        <h3 className="text-2xl font-bold">PADDLE SURF (SUP)</h3>
         <p className="text-sm opacity-90">
-          Remá, disfrutá y conectá con el mar
+          Iniciación • Nivel medio 
         </p>
       </div>
     </Link>
@@ -105,9 +105,9 @@ export default function Home() {
       <div className="absolute inset-0 bg-black/50" />
 
       <div className="relative z-10 h-full flex flex-col items-center justify-center text-center text-white px-4">
-        <h3 className="text-2xl font-bold">Aguas abiertas</h3>
+        <h3 className="text-2xl font-bold">AGUAS ABIERTAS</h3>
         <p className="text-sm opacity-90">
-          Técnica, seguridad y disfrute en el mar
+          clases privadas y grupales
         </p>
       </div>
     </Link>
@@ -125,9 +125,9 @@ export default function Home() {
       <div className="absolute inset-0 bg-black/50" />
 
       <div className="relative z-10 h-full flex flex-col items-center justify-center text-center text-white px-4">
-        <h3 className="text-2xl font-bold">Peque Surf</h3>
+        <h3 className="text-2xl font-bold">PEQUE SURF</h3>
         <p className="text-sm opacity-90">
-          Para los más chicos, jugando y aprendiendo
+          aprender jugando 
         </p>
       </div>
     </Link>

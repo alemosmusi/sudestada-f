@@ -51,7 +51,7 @@ export default function QuienesSomosPage() {
         <div className="order-2">
           <p className="text-lg leading-relaxed text-center md:text-left">
             Con el tiempo se fueron sumando más integrantes al equipo, otros locos y
-            locas como nosotrxs, amantes de las OLAS y de este estilo de vida tan lindo.
+            locas como nosotros, amantes de las OLAS y de este estilo de vida tan lindo.
             Se fueron incorporando nuevas disciplinas, se agregaron propuestas,
             cambiamos de espacio, mejoramos “nuestra casita”, la llenamos de arte…
             Y así es que llegamos a ser lo que somos: una de las Escuelas más reconocidas

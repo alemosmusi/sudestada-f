@@ -59,14 +59,10 @@ export default function LosProfesPage() {
           </h2>
 
           <p className="text-lg leading-relaxed text-sky-900">
-            No son los mejores simplemente porque clase a clase logran transmitir ese amor
-            por lo que hacen, o por darte seguridad y apoyo en todo momento sin dejar de lado
-            la diversión en el agua. Lo son también por su profesionalidad:
-            Instructores de Surf, Profes de Educación Física, Instructores de Natación
-            y Guardavidas.
+            No son los mejores simplemente porque clase a clase logran trasmitir ese amor por lo que hacen, o por darte seguridad y apoyo en todo momento sin dejar de lado la diversión en el agua; lo son también por su profesionalidad. 
             <br /><br />
-            Este combo de títulos, experiencia y magia solo puede dar como resultado:
-            <strong> un EQUIPAZO y la satisfacción asegurada 🤙</strong>
+            Instructores de Surf, Profesores/as de Educación Física, Instructores de Natación y Guardavidas;t son quienes te acompañaran en todas tus clases, brindándote un aprendizaje seguro y significativo. Con ellos “la satisfacción está asegurada”
+            
           </p>
         </div>
       </section>
