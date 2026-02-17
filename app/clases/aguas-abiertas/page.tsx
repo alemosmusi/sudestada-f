@@ -31,7 +31,7 @@ export default function AguasAbiertasPage() {
         {/* FOTO */}
         <div className="relative w-full h-80 rounded-xl overflow-hidden shadow">
           <Image
-            src="/clases-aguas2.avif"
+            src="/clases-aguas2.jpg"
             alt="Clases de aguas abiertas"
             fill
             className="object-cover"
@@ -84,7 +84,7 @@ export default function AguasAbiertasPage() {
         {/* FOTO */}
         <div className="relative w-full h-80 rounded-xl overflow-hidden shadow">
           <Image
-            src="/clases-aguas4.avif"
+            src="/clases-aguas4.jpg"
             alt="Nivel avanzado aguas abiertas"
             fill
             className="object-cover"

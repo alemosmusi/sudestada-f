@@ -29,7 +29,7 @@ export default function ClasesSurfPage() {
         {/* FOTO */}
         <div className="relative w-full h-80 rounded-xl overflow-hidden shadow">
           <Image
-            src="/clases-surf2.avif"
+            src="/clases_surf2.jpg"
             alt="Clases de surf"
             fill
             className="object-cover"
@@ -133,7 +133,7 @@ export default function ClasesSurfPage() {
         {/* FOTO */}
         <div className="relative w-full h-80 rounded-xl overflow-hidden shadow">
           <Image
-            src="/clases-surf5.avif"
+            src="/clases-surf5.jpg"
             alt="Surf en familia"
             fill
             className="object-cover"

@@ -26,11 +26,11 @@ export default function Home() {
         <div className="backdrop-brightness-75 p-6 rounded-xl">
 
           <h1 className="text-5xl font-extrabold text-white drop-shadow-lg">
-            SUDESTADA ESCUELA DE SURF 
+            SUDESTADA 
           </h1>
 
           <p className="mt-4 text-xl text-white">
-            todo el mundo puede surfear anímate
+            ESCUELA DE SURF
           </p>
 
           <a href={whatsapp} target="_blank" rel="noopener noreferrer">

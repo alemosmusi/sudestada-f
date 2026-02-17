@@ -62,7 +62,7 @@ export default function QuienesSomosPage() {
         {/* FOTO DERECHA */}
         <div className="relative w-full h-72 rounded-xl overflow-hidden shadow order-3">
           <Image
-            src="/quienes-somos3.avif"
+            src="/quienes-somos3.jpg"
             alt="Aguas abiertas Sudestada"
             fill
             className="object-cover"

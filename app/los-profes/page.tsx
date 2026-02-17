@@ -5,9 +5,18 @@ import { useState } from "react";
 
 export default function LosProfesPage() {
   const profes = [
-    { nombre: "Mariana", foto: "/profe1.avif" },
-    { nombre: "Juani", foto: "/profe2.avif" },
-    { nombre: "Fede", foto: "/profe3.avif" },
+    { nombre: "PATO", foto: "/profe_pato.jpeg" },
+    { nombre: "PAO", foto: "/profe_pao.jpg" },
+    { nombre: "COTI", foto: "/profe_coti.jpg" },
+    { nombre: "JONI", foto: "/profe_joni.jpeg" },
+    { nombre: "LUCAS", foto: "/profe_lucas.jpeg" },
+    { nombre: "NICO", foto: "/profe_nico.jpg" },
+    { nombre: "NICO", foto: "/profe_nico2.jpeg" },
+    { nombre: "PAO", foto: "/profe_pao.jpg" },
+    { nombre: "CAMI", foto: "/profe_cami.jpg" },
+    { nombre: "LICHA", foto: "/profe_licha.jpg" },
+    { nombre: "MAX", foto: "/profe_max.jpg" },
+    { nombre: "LA NEGRA", foto: "/profe_lanegra.jpg" },
   ];
 
   const [index, setIndex] = useState(0);
@@ -60,9 +69,9 @@ export default function LosProfesPage() {
 
           <p className="text-lg leading-relaxed text-sky-900">
             No son los mejores simplemente porque clase a clase logran trasmitir ese amor por lo que hacen, o por darte seguridad y apoyo en todo momento sin dejar de lado la diversión en el agua; lo son también por su profesionalidad. 
+ 
             <br /><br />
-            Instructores de Surf, Profesores/as de Educación Física, Instructores de Natación y Guardavidas;t son quienes te acompañaran en todas tus clases, brindándote un aprendizaje seguro y significativo. Con ellos “la satisfacción está asegurada”
-            
+            Instructores de Surf, Profesores/as de Educación Física, Instructores de Natación y Guardavidas; son quienes te acompañaran en todas tus clases, brindándote un aprendizaje seguro y significativo. Quedas en las manos de quienes mejor conocen el mar, para que vos solo te ocupes de disfrutarlo!
           </p>
         </div>
       </section>
