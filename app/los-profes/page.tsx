@@ -12,9 +12,8 @@ export default function LosProfesPage() {
     { nombre: "LUCAS", foto: "/profe_lucas.jpeg" },
     { nombre: "NICO", foto: "/profe_nico.jpg" },
     { nombre: "NICO", foto: "/profe_nico2.jpeg" },
-    { nombre: "PAO", foto: "/profe_pao.jpg" },
     { nombre: "CAMI", foto: "/profe_cami.jpg" },
-    { nombre: "LICHA", foto: "/profe_licha.JGP" },
+    { nombre: "LICHA", foto: "/profe_lichaa.jpg" },
     { nombre: "MAX", foto: "/profe_max.jpg" },
     { nombre: "LA NEGRA", foto: "/profe_lanegra.jpg" },
   ];
